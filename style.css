@@ -62,6 +62,9 @@ a {
 p {
   color: #aaaaaa;
 }
+.image > img {
+  filter: brightness(70%);
+}
 .two img {
   width: 420px;
 }
