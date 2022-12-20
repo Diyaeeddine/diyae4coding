@@ -67,6 +67,10 @@ button {
   cursor: pointer;
   margin: 20px 0px 0px 0px;
 }
+button:hover {
+  background-color: #357adb;
+  outline: 1px solid #363333;
+}
 footer {
   height: 600px;
   background-color: #000000;
